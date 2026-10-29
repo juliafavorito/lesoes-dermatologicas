@@ -1,0 +1,11 @@
+.venv/
+arquivos/
+__pycache__/
+*.pyc
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.zip
+imgs/
+arquivos/
